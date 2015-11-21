@@ -4,6 +4,8 @@
 
 `baum /path/to/dir` will print out the tree for /path/to/dir
 
+![Screenshot](http://git.aubm.net/kendo5731/baum-command/raw/master/result.png)
+
 ### Options
 
 #### Depth
